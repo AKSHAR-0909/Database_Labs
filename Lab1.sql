@@ -1,4 +1,4 @@
-create database PES1UG21CS060_Cricket_league_management_DB;
+create database <database_name>;
 
 create table 060_TEAM(
     team_id varchar(30) primary key,
